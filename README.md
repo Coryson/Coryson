@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hey there, I'm Joel!
 
-<!--
-**Coryson/Coryson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm currently in a vocational training program focused on **application development**.  
+💻 Learning and building with:  
+&nbsp;&nbsp;&nbsp;&nbsp;🌐 **HTML**, **CSS**, **JavaScript**  
+&nbsp;&nbsp;&nbsp;&nbsp;🐍 **Python** &nbsp;|&nbsp; ⚡ **FastAPI**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm working on
+
+- 🧠 AI-powered internal tools with **Python** + **FastAPI**
+- 📦 Microservices & REST APIs
+- 🕸️ Small web apps to sharpen my frontend skills
+- 🔒 Exploring DevOps & backend security basics
+
+---
+
+## 🧰 Tech Stack
+
+```text
+Languages:     Python · JavaScript · HTML5 · CSS3
+Frameworks:    FastAPI · Bootstrap (learning)
+Tools:         Git · Docker (basics) · VS Code
