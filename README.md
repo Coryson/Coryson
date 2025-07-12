@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Joel!
+# 👋 Hey there, I'm Joël!
 
 🎓 I'm currently in a vocational training program focused on **application development** and **AI**.  
 💻 Learning and building with:  
